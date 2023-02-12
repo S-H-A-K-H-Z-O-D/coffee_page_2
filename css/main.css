@@ -1,0 +1,21 @@
+@font-face{
+    src: url(../fonts/Barlow-Bold.ttf);
+    font-family: barlow-700;
+}
+
+@font-face{
+    src: url(../fonts/Barlow-Medium.ttf);
+    font-family: barlow-400;
+}
+
+@font-face{
+    src: url(../fonts/Fraunces_9pt-Black.ttf);
+    font-family: fraunces;
+}
+
+body{
+    padding: 0 130px;
+    font-family: barlow-400;
+    box-sizing: border-box;
+    background-color: #F2F2F2;
+}
